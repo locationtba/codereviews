@@ -1,4 +1,6 @@
 # Location Tba Smart Contract Reviews
 
-HypeBears: C- 
-https://github.com/locationtba/codereviews/pull/1
+HypeBears
+Score: C-
+Review: https://github.com/locationtba/codereviews/pull/1
+
