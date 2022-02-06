@@ -3,5 +3,5 @@ The reviews here are not an endorsement or discouragement of any one project. Ch
 
 HypeBears <br />
   Score: C- <br />
-  Review: https://github.com/locationtba/codereviews/pull/1 <br />
+  Review: https://github.com/locationtba/codereviews/pull/1/files <br />
 
